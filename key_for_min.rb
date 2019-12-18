@@ -1,4 +1,4 @@
-guitars = {:jericho => 150, :gibson => 190, :fender => 500}
+
 
 
 # prereqs: iterators, hashes, conditional logic
@@ -7,6 +7,8 @@ guitars = {:jericho => 150, :gibson => 190, :fender => 500}
 #def key_for_min_value(guitars)
   #min_value = 150
   #lowest_key = nil
+  
+  guitars = {:jericho => 150, :gibson => 190, :fender => 500}
   
   name_hash.each do |key,value|
     if lowest_value == 0 || value < lowest_value
