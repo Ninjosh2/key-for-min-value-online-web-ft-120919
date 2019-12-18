@@ -1,4 +1,4 @@
-guitars = {:jericho => 250, :gibson => 150, :fender => 500}
+guitars = {:jericho => 150, :gibson => 190, :fender => 500}
 
 
 # prereqs: iterators, hashes, conditional logic
