@@ -6,5 +6,8 @@ guitars = {:jericho => 150, :gibson => 190, :fender => 500}
 def key_for_min_value(guitars)
   min_value = 0 
   min_key = nil 
+end
+end
+
   
 
